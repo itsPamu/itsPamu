@@ -1,5 +1,5 @@
 ## Hi there, I'm Pamudi Abeykoon! 👋
-
+# A passionate developer exploring the world of UI/UX design while building scalable and user-friendly web & mobile applications.  I love creating seamless, interactive, and visually appealing digital experiences that make technology more accessible and enjoyable.
 <!--
 **PamudiAbeykoon/PamudiAbeykoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
