@@ -1,6 +1,14 @@
 ## Hi there, I'm Pamudi Abeykoon! 👋
-### A passionate developer diving into UI/UX design while building scalable, user-friendly web & mobile applications.
-✨ I love crafting seamless and visually stunning digital experiences that not only look great but feel great too!
+### A mindful designer who codes — crafting quiet, beautiful digital experiences.
+
+🌿I craft web and mobile experiences with simplicity at their core — where form flows into function, and every detail carries quiet intention.
+
+- 🔭 Currently building: Apps that are simple, elegant, and built to scale — where design meets functionality.
+
+- 🌱 Always exploring: UI/UX design, interaction patterns, animations, and turning complex ideas into intuitive interfaces.
+
+- 💌 Say hi: Whether it’s design, code, or just chatting about your favorite app — I’d love to connect!
+  📩 Email: pamuabeykoon@gmail.com
 
 - 🔭 **Currently working on:** Creating apps that **look good, feel good, and work great!**  
 - 🌱 **Learning & Exploring:** UI/UX, design systems, animations, and making the web **a prettier place** 🌍🎨  
