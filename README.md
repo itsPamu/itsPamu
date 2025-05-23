@@ -1,4 +1,4 @@
-## Hi there, I'm Pamudi Abeykoon! 👋
+## Hey, I'm Pamudi Abeykoon! 👋
 ### A mindful designer who codes — crafting quiet, beautiful digital experiences.
 
 🌿I craft web and mobile experiences with simplicity at their core — where form flows into function, and every detail carries quiet intention.
