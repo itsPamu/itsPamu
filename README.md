@@ -8,12 +8,7 @@
 - 🌱 Always exploring: UI/UX design, interaction patterns, animations, and turning complex ideas into intuitive interfaces.
 
 - 💌 Say hi: Whether it’s design, code, or just chatting about your favorite app — I’d love to connect!
-  📩 Email: pamuabeykoon@gmail.com
-
-- 🔭 **Currently working on:** Creating apps that **look good, feel good, and work great!**  
-- 🌱 **Learning & Exploring:** UI/UX, design systems, animations, and making the web **a prettier place** 🌍🎨  
-- 📫 **Drop me an email** if you love **tech, design, or just geeking out over cool apps!**  
-  📩 **Email:** [pamuabeykoon@gmail.com](mailto:pamudiabeykoon4@gmail.com)  
+  📩 Email: [pamuabeykoon@gmail.com](mailto:pamudiabeykoon4@gmail.com)  
 
 <!--
 **PamudiAbeykoon/PamudiAbeykoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
